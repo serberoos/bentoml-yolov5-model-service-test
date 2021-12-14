@@ -1,0 +1,2 @@
+include YoloPytorchModelService/bentoml.yml
+graft YoloPytorchModelService/artifacts
